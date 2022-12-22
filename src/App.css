@@ -1,0 +1,17 @@
+
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img{
+    width: 200px;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px black;
+}
+.elephant{
+    margin-top: 10px;
+    margin: 5px;
+}
